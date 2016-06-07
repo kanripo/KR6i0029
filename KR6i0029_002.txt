@@ -6,7 +6,7 @@
 #+PROPERTY: SOURCE Zhonghua Canon Vol. 071, No. 1665
 #+PROPERTY: VOL 071
 #+PROPERTY: BASEEDITION C
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS K
 #+PROPERTY: LASTPB <pb:KR6i0029_C_002-0117a> 
 #+PROPERTY: JUAN 2
 菩[薩-產+(辛/工)]名經諸菩[薩-產+(辛/工)]品第二　衡¶
@@ -313,7 +313,7 @@
   * 南無功德珊瑚上菩[薩-產+(辛/工)]¶
   * 南無最勝自在王菩[薩-產+(辛/工)]¶
   * 南無法界光明斍菩[薩-產+(辛/工)]¶
-  * 南無福德湏彌上菩[薩-產+(辛/工)]¶
+  * 南無福德湏[弓*(乞-乙+小)]上菩[薩-產+(辛/工)]¶
   * 南無常微笑寂根菩[薩-產+(辛/工)]¶
   * 南無波頭摩道勝菩[薩-產+(辛/工)]¶
   * 南無破就一切義菩[薩-產+(辛/工)]¶

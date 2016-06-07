@@ -6,7 +6,7 @@
 #+PROPERTY: SOURCE Zhonghua Canon Vol. 071, No. 1665
 #+PROPERTY: VOL 071
 #+PROPERTY: BASEEDITION C
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS K
 #+PROPERTY: LASTPB <pb:KR6i0029_C_006-0137a> 
 #+PROPERTY: JUAN 6
 菩[薩-產+(辛/工)]名經大菩[薩-產+(辛/工)]品卷第六　衡¶
@@ -570,7 +570,7 @@
   * 太祖菩[薩-產+(辛/工)]¶
   * 善了菩[薩-產+(辛/工)]
   * 暗幢菩[薩-產+(辛/工)]¶
-  * 計彌菩[薩-產+(辛/工)]
+  * 計[弓*(乞-乙+小)]菩[薩-產+(辛/工)]
   * 閉光菩[薩-產+(辛/工)]¶
   * 真實菩[薩-產+(辛/工)]
   * 智欲菩[薩-產+(辛/工)]¶
