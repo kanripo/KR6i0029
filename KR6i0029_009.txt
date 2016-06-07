@@ -1,17 +1,15 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:08:11.535442
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 5:24
 #+TITLE: 菩薩名經
 #+PROPERTY: CBETA_ID C071n1665
 #+PROPERTY: ID KR6i0029
 #+PROPERTY: SOURCE Zhonghua Canon Vol. 071, No. 1665
 #+PROPERTY: VOL 071
 #+PROPERTY: BASEEDITION C
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0029_C_009-0153a> 
 #+PROPERTY: JUAN 9
-
-本文二
- 菩[薩-產+(辛/工)]名經阿羅漢品第九　衡¶
+菩[薩-產+(辛/工)]名經阿羅漢品第九　衡¶
 常不輕居士　羅濬　集¶
 
   
@@ -494,7 +492,7 @@
   * 勝王尊者¶
   * 學氏尊者
   * 愍傷尊者¶
-  * 豐贍尊者
+  * 豊贍尊者
   * 訓寂尊者¶
   * 進土尊者
   * 照上尊者¶
@@ -572,7 +570,7 @@
   * 密郡尊者¶
   * 炎樂尊者
   * 甚調尊者¶
-  * 多豐尊者
+  * 多豊尊者
   * 法住尊者¶
   * 寶威尊者
   * 與護尊者¶

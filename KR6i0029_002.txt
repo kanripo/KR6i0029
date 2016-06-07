@@ -1,17 +1,15 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:08:11.338996
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 5:24
 #+TITLE: 菩薩名經
 #+PROPERTY: CBETA_ID C071n1665
 #+PROPERTY: ID KR6i0029
 #+PROPERTY: SOURCE Zhonghua Canon Vol. 071, No. 1665
 #+PROPERTY: VOL 071
 #+PROPERTY: BASEEDITION C
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0029_C_002-0117a> 
 #+PROPERTY: JUAN 2
-
-菩薩品一
- 菩[薩-產+(辛/工)]名經諸菩[薩-產+(辛/工)]品第二　衡¶
+菩[薩-產+(辛/工)]名經諸菩[薩-產+(辛/工)]品第二　衡¶
 常不輕居士　羅濬　集¶
 
   
@@ -47,7 +45,7 @@
   * 南無甘菩遮國出生意諸大菩[薩-產+(辛/工)]摩¶訶[薩-產+(辛/工)]¶
   * 南無震旦國那羅延窟諸菩[薩-產+(辛/工)]摩¶訶[薩-產+(辛/工)]¶
   * 南無觀音菩[薩-產+(辛/工)](或曰觀世音　或曰觀自在)¶
-  * 南無文殊菩[薩-產+(辛/工)](或曰妙吉祥　或輭首童子)¶
+  * 南無文殊菩[薩-產+(辛/工)](或曰妙吉祥　或輭首)¶
   * 南無彌勒菩[薩-產+(辛/工)](或曰慈氏　或曰阿逸多)¶
 
 此迺梵漢不同神變有異極¶
